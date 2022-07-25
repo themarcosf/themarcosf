@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @themarcosf
-- 👀 I’m interested in tech, innovation and startups
-- 🌱 I’m currently learning python & data analysis
-- 💞️ I’m experienced in investments and capital markets
+- I’m interested in tech, innovation and startups
+- I’m experienced in investments and capital markets
 - 📫 Reach me at twitter: @marcos_f_f or instagram: @themarcosf_f
