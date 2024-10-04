@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @themarcosf
 - I’m interested in tech, innovation and startups
 - I’m experienced in investments and capital markets
-- Current interests: low-level neural net models
+- Current interest: how can neural nets maintain state, aka World Knowledge
+- 📫 Reach me at twitter: @marcos_f_f or instagram: @themarcosf_f
