@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @themarcosf
-- I’m interested in tech, innovation and startups
-- I’m experienced in investments and capital markets
-- Current interest: how can neural nets maintain state, aka World Knowledge
+- I’m a senior software engineer with expertise in developing financial and AI-based applications
+- Current interests: homomorphic encryption and mechanistic interpretation of neural networks
 - 📫 Reach me at twitter: @marcos_f_f or instagram: @themarcosf_f
