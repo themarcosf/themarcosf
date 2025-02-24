@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @themarcosf
-- I’m a senior software engineer with expertise in developing financial and AI-based applications
+- I’m a software engineer with expertise in developing financial and AI-based applications
 - Current interests: homomorphic encryption and mechanistic interpretation of neural networks
 - 📫 Reach me at twitter: @marcos_f_f (preferred) or root@epiphyte-2.com
