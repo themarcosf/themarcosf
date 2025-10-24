@@ -2,4 +2,4 @@
 - 🎓 BSc Software Engineering @ INTELI ’25  
 - 📚 MSc Candidate @ IMPA ’28  
 - 🔐 Research: homomorphic encryption, mech interp & DGM
-- ✍🏻 Medium | 📫 X: @marcos_f_f
+- ✍🏻 Medium | X: @marcos_f_f
