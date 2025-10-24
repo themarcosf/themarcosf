@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @themarcosf
 - 👨🏻‍💻 Software engineer @ Inteli '25
 - 📖 Master candidate @ IMPA '28
-- 🔑 Current interests: homomorphic encryption; mechanistic interpretability; Darwin-Gödel Machines (DGM)
-- ✍🏻 medium: @marcosaurelio.adm
-- 📫 twitter: @marcos_f_f (preferred)
+- ✍🏻 medium: @marcos_f_f
+- 📫 twitter: @marcos_f_f
