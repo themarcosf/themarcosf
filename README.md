@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @themarcosf
-- 👨🏻‍💻 Software engineer @ Inteli '25
-- 📖 Master candidate @ IMPA '28
-- ✍🏻 medium: @marcos_f_f
-- 📫 twitter: @marcos_f_f
+- 👨🏻‍💻 Software Engineer @ Inteli '25
+- 📖 MSc Candidate @ IMPA '28
+- ✍🏻 Medium: @marcos_f_f
+- 📫 X: @marcos_f_f
