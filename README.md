@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @themarcosf
-- 👨🏻‍💻 Software Engineer @ Inteli '25
-- 📖 MSc Candidate @ IMPA '28
-- ✍🏻 Medium: @marcos_f_f
-- 📫 X: @marcos_f_f
+- 🎓 BSc Software Engineering @ INTELI ’25  
+- 📚 MSc Candidate @ IMPA ’28  
+- 🔐 Research: homomorphic encryption, mech interp & DGM
+- ✍🏻 Medium | 📫 X: @marcos_f_f
