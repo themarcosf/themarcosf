@@ -1,4 +1,3 @@
 - 🎓 BSc Software Engineering @ INTELI ’25  
 - 📚 MSc Candidate @ IMPA ’28  
-- 🔭 Interests: homomorphic encryption, mechanistic interpretation & Darwin-Gödel Machine (DGM)
 - ✍🏻 Personal website: www.marcosflorencio.com
