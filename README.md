@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @themarcosf
 - 🎓 BSc Software Engineering @ INTELI ’25  
 - 📚 MSc Candidate @ IMPA ’28  
-- 🔐 Research: homomorphic encryption, mech interp & DGM
+- 🔐 Research: homomorphic encryption, mechanistic interpretation & Darwin-Gödel Machine (DGM)
 - ✍🏻 Medium | X: @marcos_f_f
+- 🛜 Personal website: www.marcosflorencio.com
